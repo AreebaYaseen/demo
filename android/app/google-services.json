@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "956206405942",
+    "project_id": "dumy-5b659",
+    "storage_bucket": "dumy-5b659.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956206405942:android:46246d323e36df6e017b97",
+        "android_client_info": {
+          "package_name": "com.areeba.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeX-xKzFSAIHH-0izWOJbVqDknlXcFeTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956206405942:android:6cc98fd612fa154f017b97",
+        "android_client_info": {
+          "package_name": "com.areeba.dumy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeX-xKzFSAIHH-0izWOJbVqDknlXcFeTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
